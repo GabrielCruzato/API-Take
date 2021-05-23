@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Esse arquivo é usado pelo processo de publicação/pacote do seu projeto Web. É possível personalizar o comportamento deste processo
+ao editar este arquivo MSBuild. Para saber mais sobre isso, visite https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAbza8fUgQOk2TrEPYzNqtzQAAAAACAAAAAAAQZgAAAAEAACAAAABL4Pdp+UVHe1Oc09IlSUne4thElh+B50a1gKrBZAJ0ngAAAAAOgAAAAAIAACAAAABvQVBzft2Vk085K5UyGq892yh7oU3eGClxII/LvM18/oAAAACkq+WkeJdrbFPlGKLqumCMSrOUVXPNHyggMiOR4qaod7R2M0DGHtSMyfSZiyTA9LNwwqLs3bF9A9raq+V3+tO8j//dKguk2Cc4+WbcYS/L9/u46FoYQylToS5MXYf6ODuhekvYyiT5mDE+aO3IEtYiOqwdCsv+ajJs1i11WBafGkAAAADIxtM5u3UVbJJvxtrhpadXi70wJyATVvAsVYDlaTeF9HUJH4/TFi/a4SPeJcPxc2Q17g9ZaTCJwRcmrSCJGS4K</EncryptedPassword>
+    <_PublishTargetUrl>ftp://waws-prod-cq1-019.ftp.azurewebsites.windows.net/site/wwwroot</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="ApiTake.deps.json">
+      <publishTime>05/22/2021 22:00:58</publishTime>
+    </File>
+    <File Include="ApiTake.dll">
+      <publishTime>05/22/2021 22:00:58</publishTime>
+    </File>
+    <File Include="ApiTake.exe">
+      <publishTime>05/22/2021 22:00:58</publishTime>
+    </File>
+    <File Include="ApiTake.pdb">
+      <publishTime>05/22/2021 22:00:58</publishTime>
+    </File>
+    <File Include="ApiTake.runtimeconfig.json">
+      <publishTime>05/22/2021 22:00:58</publishTime>
+    </File>
+    <File Include="appsettings.Development.json">
+      <publishTime>05/21/2021 23:17:21</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>05/21/2021 23:17:21</publishTime>
+    </File>
+    <File Include="Octokit.dll">
+      <publishTime>02/21/2021 23:00:26</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>05/22/2021 22:01:00</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
